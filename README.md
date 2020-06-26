@@ -8,5 +8,4 @@ This is a simple whatsapp bot application developed using Python,Flask,Twilio an
 3. then msg: "join powerful-eight"
 4. Now yo can use this application as shown in below image
 ```
-![alt text](https://github.com/SHUBHAM-HARINKHEDE/RepositoryData/blob/master/Screenshot_2020-06-26-15-44-54-818_com.whatsapp.jpg)
-
+![Screenshot](https://drive.google.com/uc?export=view&id=13EE7FjavMAMBBpLpfuHNV7tyOwsJir-e)
